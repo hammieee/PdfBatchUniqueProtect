@@ -3,7 +3,8 @@ Protect multiple pdf files at once with different passwords from Excel automatic
 
 ## Prerequisites 
 1. Python3
-2. [PyPDF2](https://github.com/py-pdf/PyPDF2)
+2. Microsoft Excel
+3. [PyPDF2](https://github.com/py-pdf/PyPDF2)
 
 ## Configuration
 - Locate **protect.py**, edit the Paths
